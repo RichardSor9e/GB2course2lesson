@@ -6,6 +6,8 @@ public class Main {
 
 Competitions.start();
 
+        // надеюсь правильно понял задачу
+
 
     }
 }
