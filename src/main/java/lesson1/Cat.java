@@ -1,3 +1,5 @@
+package lesson1;
+
 public class Cat implements Action{
 
     public int maxHight = 12;
@@ -5,12 +7,12 @@ public class Cat implements Action{
 
     @Override
     public void run() {
-        System.out.println("Cat has riched the goal");
+        System.out.println("lesson1.Cat has riched the goal");
     }
 
     @Override
     public void jump() {
-        System.out.println("Cat has riched the goal");
+        System.out.println("lesson1.Cat has riched the goal");
     }
 @Override
     public int getMaxHight() {

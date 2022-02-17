@@ -1,3 +1,5 @@
+package lesson1;
+
 public class Treadmill implements WallAndTrace {
 
 public static int range = 1000;
