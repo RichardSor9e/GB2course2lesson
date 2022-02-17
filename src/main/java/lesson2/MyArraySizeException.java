@@ -1,4 +1,7 @@
 package lesson2;
 
-public class MyArraySizeException {
+public class MyArraySizeException extends Throwable {
+    public MyArraySizeException() {
+
+    }
 }
