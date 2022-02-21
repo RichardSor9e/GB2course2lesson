@@ -1,3 +1,5 @@
+package lesson1;
+
 public class Main {
 
 
@@ -6,7 +8,7 @@ public class Main {
 
 Competitions.start();
 
-        // надеюсь правильно понял задачу
+        // Надеюсь правильно понял задачу
 
 
     }
