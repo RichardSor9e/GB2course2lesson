@@ -1,3 +1,5 @@
+package lesson1;
+
 public class Human implements Action{
 
     public int maxHight = 3;
@@ -5,12 +7,12 @@ public class Human implements Action{
 
     @Override
     public void run() {
-        System.out.println("Human has riched the goal");
+        System.out.println("lesson1.Human has riched the goal");
     }
 
     @Override
     public void jump() {
-        System.out.println("Human has riched the goal");
+        System.out.println("lesson1.Human has riched the goal");
     }
 @Override
     public int getMaxHight() {
